@@ -5,7 +5,7 @@
 
 ---
 
-###to set spring-boot + thymleaf
+### to set spring-boot + thymleaf
  - use [Spring Initializr](start.spring.io)
  - snapshot(not official release) -> use none latest non-snapshot version
  - create -> download -> unzip -> open 'build.gradle' with IDE
