@@ -16,3 +16,4 @@
 
 ### thyleaf
  - escape mode default
+ - local variable is only used inside of its own tag
